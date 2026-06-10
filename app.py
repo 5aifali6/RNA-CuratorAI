@@ -1,7 +1,10 @@
 import streamlit as st
 import pandas as pd
 import psycopg2
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
 st.set_page_config(
     page_title="RNA-CuratorAI",
     page_icon="🧬",
@@ -9,10 +12,11 @@ st.set_page_config(
 )
 
 conn = psycopg2.connect(
-    host="host.docker.internal",
-    database="rna_curator_ai",
-    user="postgres",
-    password="hamlog512"
+    host=os.getenv("DB_HOST"),
+    database=os.getenv("DB_NAME"),
+    user=os.getenv("DB_USER"),
+    password=os.getenv("DB_PASSWORD"),
+    port=os.getenv("DB_PORT")
 )
 
 
