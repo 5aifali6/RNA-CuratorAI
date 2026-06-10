@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 conn = psycopg2.connect(
-    host="localhost",
+    host="host.docker.internal",
     database="rna_curator_ai",
     user="postgres",
     password="hamlog512"
