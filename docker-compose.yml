@@ -1,5 +1,22 @@
 services:
 
+  postgres:
+
+    image: postgres:17
+
+    container_name: rna-curator-db
+
+    environment:
+      POSTGRES_DB: rna_curator_ai
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: hamlog512
+
+    ports:
+      - "5432:5432"
+
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
   streamlit:
 
     build: .
@@ -9,7 +26,13 @@ services:
     ports:
       - "8501:8501"
 
-    volumes:
-      - .:/app
+    depends_on:
+      - postgres
+
+    env_file:
+      - .env
 
     restart: unless-stopped
+
+volumes:
+  postgres_data:
