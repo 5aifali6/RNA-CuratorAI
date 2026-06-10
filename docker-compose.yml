@@ -1,0 +1,15 @@
+services:
+
+  streamlit:
+
+    build: .
+
+    container_name: rna-curator-ai
+
+    ports:
+      - "8501:8501"
+
+    volumes:
+      - .:/app
+
+    restart: unless-stopped
