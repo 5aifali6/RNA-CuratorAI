@@ -1,0 +1,149 @@
+[
+    {
+        "pmid": "42160813",
+        "title": "Salivary MicroRNA Reflects Neurodevelopment and Oral Health Traits in Children With Autism.",
+        "rnas": [
+            "hsa-miR-145-5p",
+            "hsa-miR-200a-5p",
+            "miR-151a-3p"
+        ],
+        "genes": [],
+        "diseases": [
+            "Autism Spectrum Disorder"
+        ],
+        "key_finding": "Children with ASD exhibit a distinct salivary miRNA profile with increased caries burden and gingival inflammation, indicating shared molecular influences on neurodevelopment and oral disease susceptibility."
+    },
+    {
+        "pmid": "42101085",
+        "title": "Personalized Medicine in Autism Spectrum Disorder: Integrating Epigenomics, Microbiome Research and Early Diagnostics.",
+        "rnas": [],
+        "genes": [],
+        "diseases": [
+            "Autism Spectrum Disorder"
+        ],
+        "key_finding": "The potential of salivary microRNAs, perinatal metabolic and epigenetic markers, oxidative stress-related measures, and microbiome-based profiles as early and biologically informative indicators of ASD risk is discussed."
+    },
+    {
+        "pmid": "42079210",
+        "title": "PM2.5 toxin benzo[a]pyrene induces life-limiting inflammation and oxidative stress in the airway by up-regulation of TRPC6 and inactivation of β2AR/CFTR signaling.",
+        "rnas": [
+            "miR-126a-3p",
+            "miR-30b-5p",
+            "miR-103a-3p",
+            "miR-26a-5p",
+            "miR-766-3p"
+        ],
+        "genes": [
+            "TRPC6",
+            "β2AR",
+            "CFTR"
+        ],
+        "diseases": [
+            "cardiovascular diseases",
+            "dementia",
+            "Parkinson's disease",
+            "Alzheimer's disease",
+            "autism",
+            "autism spectrum disorders",
+            "pulmonary inflammatory diseases"
+        ],
+        "key_finding": "PM2.5 and benzo[a]pyrene (B[a]P) induce inflammation and oxidative stress in the airway by increased expression of TRPC6 and inactivation of β2AR/CFTR signaling, marking the first identified mechanism for their effects."
+    },
+    {
+        "pmid": "42069802",
+        "title": "Potential contribution of age-related and methodological factors to limited reproducibility in autism spectrum disorder blood miRNA biomarker studies: an exploratory meta-analysis.",
+        "rnas": [
+            "hsa-miR-29c-5p"
+        ],
+        "genes": [],
+        "diseases": [
+            "Autism Spectrum Disorder"
+        ],
+        "key_finding": "Blood-derived miRNA signals may reflect peripheral physiological states rather than central disease mechanisms, as most blood candidate miRNAs showed no corresponding expression in brain tissue."
+    },
+    {
+        "pmid": "42039695",
+        "title": "Epigenetic mechanisms linking the perinatal environment, the placenta, and maternal and child health outcomes: evidence for sexual dimorphism.",
+        "rnas": [],
+        "genes": [],
+        "diseases": [
+            "Autism Spectrum Disorder",
+            "Attention-Deficit/Hyperactivity Disorder"
+        ],
+        "key_finding": "Early-life environmental exposures alter epigenetic patterns, leading to adverse health outcomes such as neurodevelopmental disorders, metabolic dysregulation, and immune dysfunction."
+    },
+    {
+        "pmid": "42016032",
+        "title": "Association Between miR-146a rs2910164 Polymorphism and Tuberculosis Susceptibility: A Comprehensive Meta-Analysis.",
+        "rnas": [
+            "miR-146a"
+        ],
+        "genes": [],
+        "diseases": [
+            "Tuberculosis"
+        ],
+        "key_finding": "The meta-analysis did not find a significant association between the miR-146a rs2910164 G>C variant and tuberculosis susceptibility."
+    },
+    {
+        "pmid": "41791210",
+        "title": "The impact of gestational diabetes mellitus on fetal neural development: A systematic review.",
+        "rnas": [],
+        "genes": [],
+        "diseases": [
+            "Autism Spectrum Disorder",
+            "Attention-Deficit Hyperactivity Disorder"
+        ],
+        "key_finding": "GDM is linked to neurodevelopmental modifications, including heightened susceptibility to autism spectrum disorder and attention-deficit hyperactivity disorder, along with dysregulated microRNAs involved in neurogenesis."
+    },
+    {
+        "pmid": "41750370",
+        "title": "Association of Clinical Severity in Autism Spectrum Disorder with Biomolecules Involved in Lipid Metabolism, Inflammation and miRNAs.",
+        "rnas": [
+            "miR-143-3p",
+            "miR-181a-5p"
+        ],
+        "genes": [
+            "SMPD1",
+            "SMPD5",
+            "CerS1",
+            "CerS6",
+            "COX2",
+            "YKL40",
+            "LAMP1",
+            "LAMP2"
+        ],
+        "diseases": [
+            "Autism Spectrum Disorder"
+        ],
+        "key_finding": "Altered expression profiles of lipid metabolism-related molecules and miRNAs were observed in ASD patients, with decreased miR-181a-5p and correlations between CerS1/CerS6/COX2/miR-143-3p and ADOS scores."
+    },
+    {
+        "pmid": "41609071",
+        "title": "Autism Pathoetiology and Pathophysiology: Roles of STAT3 and NF-κB Dimer Interactions in Regulating the Mitochondrial Melatonergic Pathway in Placental, CNS, and Systemic Cells.",
+        "rnas": [],
+        "genes": [
+            "STAT3",
+            "NF-κB",
+            "AhR"
+        ],
+        "diseases": [
+            "Autism Spectrum Disorder"
+        ],
+        "key_finding": "The differential regulation of the mitochondrial melatonergic pathway by interactions between signal transducer and activator of transcription 3 (STAT3) and nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB) determines whether the melatonergic pathway is upregulated or downregulated, which is linked to autism spectrum disorder pathophysiology."
+    },
+    {
+        "pmid": "41595751",
+        "title": "Dysregulation of miRNAs in Sicilian Patients with Autism Spectrum Disorder.",
+        "rnas": [
+            "miR-296-3p",
+            "miR-27a",
+            "miR-146a-5p",
+            "miR-29b-3p"
+        ],
+        "genes": [],
+        "diseases": [
+            "Autism Spectrum Disorder"
+        ],
+        "key_finding": "Four miRNAs (miR-296-3p, miR-27a, miR-146a-5p, and miR-29b-3p) emerged as key regulatory candidates."
+    }
+]
