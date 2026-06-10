@@ -26,3 +26,18 @@ for paper in papers:
 print(papers[0]["rnas"])
 
 print(papers[0])
+
+with open(
+    "outputs/rna_extracted_articles.json",
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        papers,
+        f,
+        indent=4,
+        ensure_ascii=False
+    )
+
+print("RNA extraction saved.")

@@ -1,0 +1,135 @@
+[
+    {
+        "pmid": "42160813",
+        "title": "Salivary MicroRNA Reflects Neurodevelopment and Oral Health Traits in Children With Autism.",
+        "abstract": "Autism spectrum disorder (ASD) is a multifactorial neurodevelopmental condition associated with poor oral health in children. ASD lacks sensitive, non-invasive diagnostic tools, and the relationship between neurodevelopment and oral health remains unclear. This observational study aimed to identify salivary microRNAs (miRNAs) differentially expressed between children with ASD and healthy controls and to determine whether these profiles are associated with dental caries and periodontal status. Unstimulated saliva was collected from 26 children with ASD and 20 healthy controls and subjected to small RNA sequencing. Differentially expressed miRNAs were identified and functionally annotated. Oral health was assessed using dmft/DMFT and periodontal indices, and associations between miRNA expression patterns and clinical parameters were evaluated. A total of 125 salivary miRNAs were differentially expressed between ASD and control groups (FDR < 0.05). Principal component analysis showed clear group separation, with PC1 accounting for 46.5% of total variance. Several dysregulated miRNAs were linked to neurodevelopmental and immune regulatory pathways and overlapped with neurological and inflammatory conditions. After miRDB/SFARI filtering, 40 ASD-relevant miRNAs were prioritized, including 21 upregulated and 19 downregulated candidates; representative examples were hsa-miR-145-5p (log2FC 2.11, adjusted P = 1.74E-08) and hsa-miR-200a-5p (log2FC -0.58, adjusted P = 6.11E-06). Children with ASD had higher dmft/DMFT scores and poorer periodontal/behavioural outcomes, with dmft/DMFT differing significantly between groups (P = .02). In exploratory pooled-cohort regression analysis, miR-151a-3p and behaviour remained significant predictors of dmft/DMFT (adjusted R<sup>2</sup> = 0.31, P = .003). Children with ASD exhibit a distinct salivary miRNA profile with increased caries burden and gingival inflammation, indicating shared molecular influences on neurodevelopment and oral disease susceptibility. Salivary miRNAs offer a non-invasive biomarker platform to support earlier ASD identification, individualized preventive dental strategies, and interdisciplinary management of this high-risk paediatric population.",
+        "rnas": [
+            "hsa-miR-200a-5p",
+            "miR-151a-3p",
+            "hsa-miR-145-5p"
+        ],
+        "diseases": [
+            "ASD",
+            "autism spectrum disorder",
+            "autism"
+        ]
+    },
+    {
+        "pmid": "42101085",
+        "title": "Personalized Medicine in Autism Spectrum Disorder: Integrating Epigenomics, Microbiome Research and Early Diagnostics.",
+        "abstract": "Autism spectrum disorder (ASD) is a heterogeneous neurodevelopmental condition characterized by persistent difficulties in social communication together with restricted, repetitive patterns of behaviour and sensory-processing differences. Growing evidence suggests that ASD is shaped by complex interactions among genetic susceptibility, epigenetic regulation, immune signalling, maternal and early-life exposures and gut microbiome-related pathways. However, many of these associations remain biologically plausible rather than definitively causal, particularly when findings from experimental models are considered alongside human clinical data. This narrative review examines recent advances across these interconnected domains, with particular emphasis on maternal immune activation, prenatal nutrition, gut microbial imbalance, epigenetic and molecular mechanisms, emerging therapeutic directions and developing biomarker platforms. We also discuss current diagnostic limitations and evaluate the potential of salivary microRNAs, perinatal metabolic and epigenetic markers, oxidative stress-related measures and microbiome-based profiles as early and biologically informative indicators of ASD risk. Special attention is given to the need for biologically informed stratification, although current subgrouping frameworks remain preliminary and not yet sufficiently validated for routine clinical use. Likewise, candidate biomarkers remain investigational and require stronger evidence for reproducibility, external validation, longitudinal performance and clinically meaningful sensitivity and specificity before they can be considered for screening or precision-guided care. Emerging therapeutic strategies targeting immune, epigenetic and microbiome-related pathways are also reviewed, but most remain preclinical or early-stage and face substantial translational barriers. The convergence of epigenomics, microbiome research and early diagnostic science may help advance a more personalized medicine framework for ASD, provided that future studies improve cross-cohort reproducibility, clarify brain relevance of peripheral signals and develop practical multiomics models that can support clinically meaningful integration.",
+        "rnas": [],
+        "diseases": [
+            "ASD",
+            "autism spectrum disorder",
+            "autism"
+        ]
+    },
+    {
+        "pmid": "42079210",
+        "title": "PM2.5 toxin benzo[a]pyrene induces life-limiting inflammation and oxidative stress in the airway by up-regulation of TRPC6 and inactivation of β2AR/CFTR signaling.",
+        "abstract": "Sustained exposures to high atmospheric levels of PM2.5 at population scale are associated with increased risks for pulmonary inflammatory diseases. These are marked by activation of the TRPC6 (Transient Receptor Potential Canonical type 6) calcium channel, increased reactive oxygen species (ROS) and oxidative stress. Long term exposures are associated with reduced life span, and increased incidences of cardiovascular diseases, dementia, Parkinson's and Alzheimer disease, and increased risk of autism and autism spectrum disorders. It has been proposed that the PM2.5 toxin is benzo[a]pyrene (B[a]P) that is adsorbed to the surface of the PM2.5 particle.. But the mechanism by which B[a]P might drive pulmonary inflammatory diseases, or any other of the indications above, are not known. B[a]P was recently reported to bind irreversibly and destructively to the β2 Adrenergic Receptor (β2AR) in the lung. <i>We</i> have therefore hypothesized that B[a]P is the adsorbed PM2.5 toxin, and that β2AR is the B[a]P receptor responsible for TRPC6 activation in lung epithelial cells. To test this hypothesis, we exposed a polarized organoid model of normal human lung epithelia, polarized lung epithelial 16HBE14o- cells, and tracheobronchial slice cultures from ferret lung to either PM2.5 or B[a]P. We found that both PM2.5 and B[a]P: (i) irreversibly activated of β2AR signaling via G<sub>i</sub> to PI3K/AKT; (ii) increased NFκB-activated release of proinflammatory cytokines through IKKαβ activation by PI3K/AKT, which was suppressed by the PI3K inhibitor LY 294002 (iii) desensitized and destroyed the activated β2AR receptor by endocytic recycling; (iv) also destroyed β2AR's signalplex partner CFTR by the same process; (v) activated the CFTR-bound calcium channel protein TRPC6 due to loss of inhibitory CFTR; leading to (vi) increased cytosolic [Ca<sup>2+</sup>] concentration; (vii) increased ROS due to mitochondrial uncoupling; and (viii) increased expression of oxidative stress. Treatment with the TRPC6 inhibitor BI 749327 blocked steps (vi-viii), and preserved CFTR from endocytic loss. Treatment of tracheobronchial slice cultures of ferret lung with either PM2.5 or B[a]P resulted in increased secretion of IL-6, increased expression of TRPC6, and reduced expression of β2AR and CFTR. Finally, we found that exposure of lung organoids to B[a]P significantly reduced expression of the same five microRNAs (miR-126a-3p, miR-30b-5p, miR-103a-3p, miR-26a-5p, and miR-766-3p) previously identified in sera from service members exposed to PM2.5 from burn pit emissions during deployment to Iraq and Afghanistan. PM2.5 and the PM2.5 toxin benzo[a]pyrene (B[a]P) induce inflammation and oxidative stress in the airway by increased expression of TRPC6 and inactivation of β2AR/CFTR signaling. These discoveries mark the first identification of a mechanism by which exposure to PM2.5 or the PM2.5 toxin B[a]P itself can induce inflammation and TRPC6-dependent oxidative stress in lung epithelia.",
+        "rnas": [
+            "miR-766-3p",
+            "miR-126a-3p",
+            "miR-30b-5p",
+            "miR-103a-3p",
+            "miR-26a-5p"
+        ],
+        "diseases": [
+            "Alzheimer",
+            "Parkinson",
+            "autism spectrum disorder",
+            "autism"
+        ]
+    },
+    {
+        "pmid": "42069802",
+        "title": "Potential contribution of age-related and methodological factors to limited reproducibility in autism spectrum disorder blood miRNA biomarker studies: an exploratory meta-analysis.",
+        "abstract": "Cross-study inconsistencies in autism spectrum disorder (ASD) blood microRNA biomarker studies suggest that methodological heterogeneity may substantially limit reproducibility. We conducted an exploratory meta-analysis of publicly available ASD blood miRNA datasets from the Gene Expression Omnibus, applying rigorous inclusion criteria and standardized analytical protocols. Three datasets were included (GSE89596, GSE67979, GSE222046) comprising 614 miRNAs across 90 participants (45 ASD, 45 controls). Random-effects meta-analysis was performed using Hedges' g effect sizes, with comprehensive heterogeneity assessment and leave-one-dataset-out cross-validation. No miRNAs survived multiple testing correction (Benjamini-Hochberg FDR < 0.05), though seven candidate signals showed consistent evidence with unadjusted p < 0.01 and large effect sizes. These candidates demonstrated near-zero between-study heterogeneity and consistent directionality across validation analyses. Potential age-related and platform-related differences were observed, with near-zero correlation between adult and pediatric effect sizes (Kendall's τ = -0.022); however, these two sources of variability were fully confounded in the available data and could not be separated. Some miRNAs exhibited extreme between-study variability (I² > 80%), indicating substantial methodological differences. Cross-validation revealed that excluding the single adult dataset reduced sign consistency from 89.9% to 68.9%. Our findings suggest that age-related and methodological factors, including technical platform differences, may contribute to limited reproducibility in ASD blood miRNA research, and that blood-derived signals should be interpreted as potentially reflecting peripheral physiological states rather than central disease mechanisms. A supplementary cross-tissue analysis using post-mortem prefrontal cortex data (GSE59286; n = 45) provided direct empirical support for this interpretation: the majority of blood candidate miRNAs showed no corresponding expression in brain tissue, with only hsa-miR-29c-5p demonstrating directional concordance across both tissues. These findings suggest that age stratification, platform harmonization, and cross-tissue validation should be considered essential prerequisites for reliable ASD miRNA biomarker discovery, rather than optional refinements.",
+        "rnas": [
+            "hsa-miR-29c-5p"
+        ],
+        "diseases": [
+            "ASD",
+            "autism spectrum disorder",
+            "autism"
+        ]
+    },
+    {
+        "pmid": "42039695",
+        "title": "Epigenetic mechanisms linking the perinatal environment, the placenta, and maternal and child health outcomes: evidence for sexual dimorphism.",
+        "abstract": "Exposure to adverse environments early in life can shape health trajectories across the lifespan. A key mechanism by which this life-long reprogramming occurs is via epigenetic modifications, including altered DNA methylation (DNAm), histone modifications, and microRNA (miRNA) regulation. This invited perspective highlights key human population studies and selected animal studies from our group and collaborators that have examined toxicant exposure occurring during or prior to pregnancy including metals, pharmaceuticals, microorganisms, air pollution, and socioeconomic stressors and their impact on the epigenome. Exposure to these substances is associated with altered epigenetic patterning in fetal blood and placenta, often in a gene- and sex-specific manner. This gene specificity may be tied to the transcription factor occupancy, where environmental exposures alter transcription factor binding at regulatory regions, influencing downstream epigenetic patterns. In relation to adverse health outcomes, these epigenetic modifications have been associated with adverse pregnancy outcomes such as preeclampsia as well as neonatal health (i.e. preterm birth, retinopathy of prematurity, chronic lung disease, and congenital heart defects). Additionally, these epigenetic alterations have been associated with outcomes later in childhood, including cognition, neurodevelopmental disorders [e.g. autism spectrum disorder (ASD) and attention-deficit/hyperactivity disorder (ADHD)], obesity, metabolic dysregulation, asthma, and immune dysfunction. Collectively, these studies highlight the relationships among early-life environmental factors, epigenetic biomarkers, and maternal and child health outcomes.",
+        "rnas": [],
+        "diseases": [
+            "ASD",
+            "autism spectrum disorder",
+            "autism"
+        ]
+    },
+    {
+        "pmid": "42016032",
+        "title": "Association Between miR-146a rs2910164 Polymorphism and Tuberculosis Susceptibility: A Comprehensive Meta-Analysis.",
+        "abstract": "Prior research has indicated a potential link between the <i>miR-146a</i> rs2910164 genetic variant and an individual's susceptibility to pulmonary tuberculosis (TB). Nevertheless, the evidence from various studies is contradictory and has not yielded a consensus. This meta-analysis was therefore conducted to systematically assess the relationship between this specific single nucleotide polymorphism (SNP) and the risk of developing tuberculosis. A systematic literature search was performed utilizing the electronic databases PubMed, Web of Science, Scopus, and ISI to capture all relevant publications available through April 2024. To ensure comprehensive coverage, the reference lists of retrieved full-text articles were also manually scrutinized. For the quantitative synthesis, pooled odds ratios (ORs) with their corresponding 95% confidence intervals (CIs) were computed to determine the overall effect estimates. The chi-square (χ²) test and the I² statistic were applied to assess and quantify heterogeneity. This meta-analysis included 6363 individuals (2904 TB patients and 3459 healthy controls) from eight case-control studies. The pooled effect estimates across all genetic inheritance models (e.g., dominant model: OR = 0.971, 95% CI: 0.884-1.068) did not reveal a significant link between the rs2910164 polymorphism and susceptibility to tuberculosis. The analysis revealed considerable heterogeneity across most genetic models, as indicated by I² statistics exceeding 70%. Conversely, statistical tests found no evidence of publication bias. The collective evidence from this analysis does not support a significant association between the <i>miR-146a</i> rs2910164 G>C variant and tuberculosis susceptibility. Confirmation of this null association necessitates future validation in large-scale, rigorously designed studies.",
+        "rnas": [
+            "miR-146a"
+        ],
+        "diseases": []
+    },
+    {
+        "pmid": "41791210",
+        "title": "The impact of gestational diabetes mellitus on fetal neural development: A systematic review.",
+        "abstract": "To synthesise existing research on the impact of gestational diabetes mellitus (GDM) on fetal neural development and subsequent cognitive function in offspring. A systematic review was conducted following PRISMA guidelines. PubMed, Cochrane Library, and ClinicalTrials.gov were searched from January 1964 to October 2024. Studies comparing offspring of mothers with GDM to those without were included. Quality was assessed using the Newcastle-Ottawa Scale (NOS). Seventeen studies met the inclusion criteria. The findings suggest that GDM is linked to subtle yet significant neurodevelopmental modifications, encompassing delays in communication and language proficiency, behavioural dysregulation, as well as heightened susceptibility to autism spectrum disorder (ASD) and attention-deficit hyperactivity disorder (ADHD). Electrophysiological investigations revealed alterations in cortical activity and extended auditory responses, while neuroimaging studies documented structural variations, including changes in the dimensions of the corpus callosum, ventricular size, and sulcal maturation. Molecular investigations uncovered dysregulated microRNAs that play a role in neurogenesis. Numerous studies emphasised the dose-dependent effects of maternal glucose concentrations and the protective impact of effective glycemic control. Maternal GDM is associated with alterations in fetal brain structure and function, which may predispose offspring to neurodevelopmental risks. While not all deficits persist, these findings highlight the potential value of early glycemic control and postnatal monitoring for at-risk infants. Further longitudinal research is needed to distinguish causal GDM effects from environmental confounders.",
+        "rnas": [],
+        "diseases": [
+            "ASD",
+            "autism spectrum disorder",
+            "diabetes",
+            "autism"
+        ]
+    },
+    {
+        "pmid": "41750370",
+        "title": "Association of Clinical Severity in Autism Spectrum Disorder with Biomolecules Involved in Lipid Metabolism, Inflammation and miRNAs.",
+        "abstract": "Autism spectrum disorder (ASD) is a heterogeneous neurological condition with an unclear etiology and pathogenesis. In recent years, studies have identified changes in lipid metabolism, inflammation, mitochondrial dysfunction, and mitophagy in patients with ASD. However, the specific interactions between these molecular signatures and their clinical applications in ASD remain largely unexplored. The aim of our study is to search for correlations between changes in gene and miRNA expression and the clinical characteristics of ASD. The investigation included a cohort of children with idiopathic ASD and healthy controls (HC). Diagnosis was established based on ADOS assessment (autism diagnostic observation schedule). Gene expression levels of sphingomyelin phosphodiesterases (SMPD1 and 5), ceramide synthases (CerS1 and 6), cyclooxygenase-2 (COX2), chitinase-3-like protein 1 (YKL40), and lysosome-associated membrane proteins 1 and 2 (LAMP1 and 2) were assessed using qPCR. The TaqMan assay was used for the quantification of miR-143-3p and miR-181a-5p. Our findings provide novel data on altered expression profiles of molecules related to lipid metabolism and LAMP1/2 in patients with ASD. We observed increased mRNA levels of CerS1, SMPD5, COX2, YKL40, LAMP1, and LAMP2 and decreased expression of miRNA-181a-5p in ASD patients compared to HC. Additionally, we identified a correlation between CerS1, CerS6, COX2, and miRNA-143-5p with ADOS scores. Multiple regression analysis revealed that 48.0% of the variance in the total ADOS score was explained by the combined effects of COX2, miRNA-143-3p, CerS1, CerS6 and age. These results provide new insights into the molecular alterations associated with ASD and may reinforce future studies aimed at clarifying their functional relevance.",
+        "rnas": [
+            "miR-143-3p",
+            "miRNA-181a-5p",
+            "miRNA-143-3p",
+            "miR-181a-5p",
+            "miRNA-143-5p"
+        ],
+        "diseases": [
+            "ASD",
+            "autism spectrum disorder",
+            "autism"
+        ]
+    },
+    {
+        "pmid": "41609071",
+        "title": "Autism Pathoetiology and Pathophysiology: Roles of STAT3 and NF-κB Dimer Interactions in Regulating the Mitochondrial Melatonergic Pathway in Placental, CNS, and Systemic Cells.",
+        "abstract": "People with autism spectrum disorders (ASD) show a relative suppression of the melatonergic pathway across CNS and systemic cells. The differential regulation of the mitochondrial melatonergic pathway may therefore be an important core aspect of ASD pathophysiology in all its manifestations. Recent data across diverse human cells show that the melatonergic pathway is powerfully regulated by interactions between signal transducer and activator of transcription 3 (STAT3) and nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB), with the composition of the NF-κB dimer determining whether the melatonergic pathway is upregulated or downregulated. Diverse aspects of ASD pathoetiology and pathophysiology, including the aryl hydrocarbon receptor (AhR), microRNAs, suboptimal mitochondrial function, pro-inflammatory cytokines, glucocorticoid receptor, vagal nerve, and oxytocin, are all intimately linked to pineal and/or local melatonin regulation, indicating the relevance of the mitochondrial melatonergic pathway regulation in the pathoetiology and pathophysiology of ASD. This article reviews and integrates diverse aspects of ASD pathoetiology and pathophysiology, with implications for future research and treatment.",
+        "rnas": [],
+        "diseases": [
+            "ASD",
+            "autism spectrum disorder",
+            "autism"
+        ]
+    },
+    {
+        "pmid": "41595751",
+        "title": "Dysregulation of miRNAs in Sicilian Patients with Autism Spectrum Disorder.",
+        "abstract": "<b>Background:</b> Autism spectrum disorder (ASD) is a highly prevalent neurodevelopmental condition influenced by both genetic and non-genetic factors, although the underlying pathomechanisms remain unclear. We systematically analyzed microRNA (miRNA) expression and associated functional pathways in ASD to evaluate their potential as prenatal/postnatal, diagnostic, and prognostic biomarkers. <b>Methods:</b> Peripheral blood mononuclear cells from 12 Sicilian patients with ASD (eight with normal cognitive function) and 15 healthy controls were analyzed using small RNA sequencing. Differential expression analysis was performed with DESeq2 (|fold change| ≥ 1.5; adjusted <i>p</i> ≤ 0.05). Functional enrichment and network analyses were conducted using Ingenuity Pathway Analysis, focusing on Diseases and Biofunctions. <b>Results:</b> 998 miRNAs were differentially expressed in ASD, 424 upregulated and 553 downregulated. Enriched pathways were primarily associated with psychological and neurological disorders. Network analysis highlighted three principal interaction clusters related to inflammation, cell survival and mechanotransduction, synaptic plasticity, and neuronal excitability. Four miRNAs (miR-296-3p, miR-27a, miR-146a-5p, and miR-29b-3p) emerged as key regulatory candidates. <b>Conclusions:</b> The marked divergence in miRNA expression between ASD and controls suggests distinct regulatory patterns, thus reinforcing the central involvement of inflammatory, autoimmune, and infectious mechanisms in ASD, mediated by miRNAs regulating S100 family genes, neuronal migration, and synaptic communication. However, rather than defining a predictive biomarker panel, this study identified candidate miRNAs and regulatory networks that may be relevant to ASD pathophysiology. As such, further validation in appropriately powered cohorts with predictive modeling frameworks are warranted before any biomarker or diagnostic implications can be inferred.",
+        "rnas": [
+            "miR-29b-3p",
+            "miR-27a",
+            "miR-296-3p",
+            "miR-146a-5p"
+        ],
+        "diseases": [
+            "ASD",
+            "autism spectrum disorder",
+            "autism"
+        ]
+    }
+]
